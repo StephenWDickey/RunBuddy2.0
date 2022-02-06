@@ -9,7 +9,7 @@ A website that offers fitness training services.
 *CSS
 
 ## Website
-
+https://stephenwdickey.github.io/RunBuddy2.0/
 
 ## Contribution
 Made with ❤️ by Stephen Dickey
